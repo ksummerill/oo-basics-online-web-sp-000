@@ -14,7 +14,5 @@ class Shoe
     shoe.condition = "new"
   end
 
-  # shoe = Shoe.new(brand)
-  # 
 
 end
