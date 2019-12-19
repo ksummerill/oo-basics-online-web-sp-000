@@ -9,6 +9,7 @@ class Shoe
     @brand = brand
   end
 
+# When altering the value of an instance variable, use the writer method prefixed with self.
   def cobble
     puts "Your shoe is as good as new!"
     self.condition = "new"
