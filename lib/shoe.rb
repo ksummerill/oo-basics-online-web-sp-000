@@ -13,7 +13,7 @@ class Shoe
     puts "Your shoe is as good as new!"
     shoe.condition = "new"
     shoe = Shoe.new(brand)
-    
+
   end
 
   #
